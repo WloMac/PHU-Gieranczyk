@@ -8,8 +8,8 @@ body{
     padding: 0;
     font-family: 'Source Code Pro', monospace;
     line-height: 1.5;
-    background-image: linear-gradient(180deg, rgb(72, 106, 148), rgb(50, 50, 50));
-    color: white;
+    background-color: rgb(31, 141, 226);
+    color: rgb(10, 10, 10);
 }
 
 .jumbotroncopy{
